@@ -1,4 +1,4 @@
-# FedReap
+# Embracing knowledge integration from the vision-language model for federated domain generalization on multi-source fused data
 The code of the paper "Embracing knowledge integration from the vision-language model for federated domain generalization on multi-source fused data"
 
 [News] Our paper is accepted by the 《Information Fusion》（IF 15.5）
